@@ -1,4 +1,4 @@
-# IPL-ANALYIS-PROJECT-BY- USING-POWER-BI
+
 # IPL Data Analysis Dashboard (2008-2024) | Power BI
 
 An interactive Power BI dashboard that analyzes every Indian Premier League season from 2008 to 2024. It covers match results, team performance, toss impact, batting and bowling records, and venue trends.
